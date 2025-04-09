@@ -1,16 +1,47 @@
-## Olá; mim chamo Joyciane, tenho 17 anos atualmente. Moro no municipio de pentecoste, mas nasci em maranguape.
+## Olá; mim chamo Joyciane😊
+Tenho 17 anos atualmente. Moro no interiozinho do municipio de pentecoste, mas nasci em maranguape. Estudei grade parte da vida em Pentecoste, até ter uma oprtunidade de estudar em Maranguape; altuamente estudo no IFCE de Maranguape, estou fazendo curco de Informática. Atualmente estou aprendendo algumas linguas de programação como "Python", "Java". Tentando buscar realizar meus sonhos e também ajudar minha mãe.
 
-<!--
-**JoycianeSousa/JoycianeSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 danço Forró e quadrilha
+- 🦜 Tenho um papagaio, que n vivo sem
+- 💧 Amo tomar banho de rio com minha familia
+- 🤬 Carne de ovelha e bode
+- ❤️ Sair em familia pra comer ou se divertir
+- ⚽ Sou louca por bola, jogo futsal 
 
-Here are some ideas to get you started:
+## 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="java"
+  title="java" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+  />
+  <img 
+  align="left" 
+  alt="html"
+  title="html" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img 
+  align="left" 
+  alt="html"
+  title="html" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+  />
+          
+   
+           
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
